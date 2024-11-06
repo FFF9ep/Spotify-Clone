@@ -90,7 +90,7 @@ Proyek ini dilisensikan di bawah MIT License.
 
 Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi saya melalui:
 
-- Email: [fandardyy@gamil.com](mailto:fandardyy@gmail.com)
+- Email: [fandardyy@gmail.com](mailto:fandardyy@gmail.com)
 - LinkedIn: [Profil LinkedIn Saya](https://www.linkedin.com/in/fandiardyan111)
 
 ---
